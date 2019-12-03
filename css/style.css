@@ -1,5 +1,5 @@
 /* Google fonts */
-@import url('https://fonts.googleapis.com/css?family=Acme|Lobster|Pauta+One|Rubik|Sniglet');
+@import url('https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet&display=swap');
 
 *{
     box-sizing: border-box;
@@ -9,10 +9,11 @@ section{
     overflow-x: hidden;
 }
 :root{
-    --Sniglet: "Sniglet" "Roboto", cursive;
-    --Rubik: "Rubik", "Verdana", cursive;
-    --Patua: "Patua", cursive;
+    --Sniglet: 'Sniglet', cursive;
+    --Rubik: 'Rubik', sans-serif;
+    --Patua: 'Patua One', cursive;
     --Lobster: "Lobster", cursive;
+    --Acme: 'Acme', sans-serif;
     --light-black: #2e2c2caf;
     --bg-gradient: linear-gradient(to bottom, #93a5cf , #1e3c72);
     --light-gray: rgba(255,255,255,0.877);
